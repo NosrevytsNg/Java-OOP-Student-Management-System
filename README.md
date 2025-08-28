@@ -11,27 +11,34 @@
 <h3>📌 Overview</h3>
 
 <p>
-  A Java-based program applying OOP principles (inheritance, polymorphism, dynamic binding) to manage coursework and research students. 
+  A Java-based program applying OOP principles (inheritance, polymorphism, dynamic binding) 
+  to manage coursework and research students.  
 </p>
 
 <p>
-  Features include CSV data import/export, menu-driven interaction, insertion sort by student ID, and automated grade reporting. 
+  Features include CSV data import/export, menu-driven interaction, insertion sort by student ID, 
+  and automated grade reporting.  
 </p>
+
 <p>
-  Implements a student record management system where users can add, remove, display, sort, and analyze coursework and research student data stored in an ArrayList. 
+  Implements a student record management system where users can add, remove, display, sort, and analyze 
+  coursework and research student data stored in an ArrayList.  
 </p>
+
 <p>
- The program supports file handling for .txt and .csv datasets, with systematic testing for validation.
+  The program supports file handling for <code>.txt</code> and <code>.csv</code> datasets, with systematic testing for validation.  
 </p>
+
 <p>
-  This system manages **student records** for both coursework and research enrolments.  
+  This system manages <b>student records</b> for both coursework and research enrolments.  
+  Data is read from <code>.txt</code> and <code>.csv</code> files, stored in an <b>ArrayList</b>, and manipulated using menu-driven options.  
 </p>
+
 <p>
-  Data is read from `.txt` and `.csv` files, stored in an **ArrayList**, and manipulated using menu-driven options.   
+  It demonstrates <b>Object-Oriented Programming</b> concepts including <b>inheritance, polymorphism, and dynamic binding</b>, 
+  as well as manual implementation of the <b>insertion sort algorithm</b>.  
 </p>
-<p>
-  It demonstrates **Object-Oriented Programming** concepts including **inheritance, polymorphism, and dynamic binding**, as well as manual implementation of the **insertion sort algorithm**. 
-</p>
+
 
 
 
