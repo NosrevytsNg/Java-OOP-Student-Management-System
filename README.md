@@ -12,20 +12,28 @@
 
 <p>
   A Java-based program applying OOP principles (inheritance, polymorphism, dynamic binding) to manage coursework and research students. 
-Features include CSV data import/export, menu-driven interaction, insertion sort by student ID, and automated grade reporting.
-Implements a student record management system where users can add, remove, display, sort, and analyze coursework and research student data stored in an ArrayList. 
-The program supports file handling for .txt and .csv datasets, with systematic testing for validation.
-This system manages **student records** for both coursework and research enrolments.  
-Data is read from `.txt` and `.csv` files, stored in an **ArrayList**, and manipulated using menu-driven options.  
-It demonstrates **Object-Oriented Programming** concepts including **inheritance, polymorphism, and dynamic binding**, as well as manual implementation of the **insertion sort algorithm**.
+</p>
+
+<p>
+  Features include CSV data import/export, menu-driven interaction, insertion sort by student ID, and automated grade reporting. 
+</p>
+<p>
+  Implements a student record management system where users can add, remove, display, sort, and analyze coursework and research student data stored in an ArrayList. 
+</p>
+<p>
+ The program supports file handling for .txt and .csv datasets, with systematic testing for validation.
+</p>
+<p>
+  This system manages **student records** for both coursework and research enrolments.  
+</p>
+<p>
+  Data is read from `.txt` and `.csv` files, stored in an **ArrayList**, and manipulated using menu-driven options.   
+</p>
+<p>
+  It demonstrates **Object-Oriented Programming** concepts including **inheritance, polymorphism, and dynamic binding**, as well as manual implementation of the **insertion sort algorithm**. 
 </p>
 
 
-Implements a student record management system where users can add, remove, display, sort, and analyze coursework and research student data stored in an ArrayList. 
-The program supports file handling for .txt and .csv datasets, with systematic testing for validation.
-This system manages **student records** for both coursework and research enrolments.  
-Data is read from `.txt` and `.csv` files, stored in an **ArrayList**, and manipulated using menu-driven options.  
-It demonstrates **Object-Oriented Programming** concepts including **inheritance, polymorphism, and dynamic binding**, as well as manual implementation of the **insertion sort algorithm**.
 
 <h3>🛠️ Tech Stack</h3>
 
