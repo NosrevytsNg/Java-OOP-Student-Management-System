@@ -3,7 +3,7 @@
 <p align="center">
   <i>A Java-based program applying OOP principles (inheritance, polymorphism, dynamic binding) 
   to manage coursework and research students.  
-  Includes CSV data handling, insertion sort, and a menu-driven interface.</i>
+  </i>
 </p>
 
 
