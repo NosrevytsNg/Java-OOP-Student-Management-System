@@ -1,5 +1,13 @@
 <h1> 🧑‍🎓 Java OOP Student Management System (Inheritance, Polymorphism, CSV-Handling)</h1>
 
+<p align="center">
+  <i>Java-based program (ICT167 Assignment 2, 2024) applying OOP principles 
+  (Inheritance, Polymorphism, Dynamic Binding) to manage coursework and research students.  
+  Includes CSV data handling, insertion sort, and a menu-driven interface.</i>
+</p>
+
+
+
 <h3>📌 Overview</h3>
 
 A Java-based program applying OOP principles (inheritance, polymorphism, dynamic binding) to manage coursework and research students. 
@@ -56,17 +64,6 @@ It demonstrates **Object-Oriented Programming** concepts including **inheritance
 - **Client** → menu-driven program  
 
 <h3>📜 Menu Operations (8 total)</h3>
-
-1. Quit  
-2. Add students (from CSV)  
-3. Remove student (by ID)  
-4. Output all details  
-5. Course work performance (above/below average)  
-6. Search by ID and report grade  
-7. Sort students by ID (insertion sort)  
-8. Export sorted list to CSV  
-
-<h3>⚡ Example</h3>
 
 ```plaintext
 Menu:
