@@ -1,10 +1,5 @@
 <h2> 🧑‍🎓 Java OOP Student Management System (Inheritance, Polymorphism, CSV-Handling)</h2>
 
-<p align="center">
-  <i>A Java-based program applying OOP principles (inheritance, polymorphism, dynamic binding) 
-  to manage coursework and research students.  
-  </i>
-</p>
 
 
 
