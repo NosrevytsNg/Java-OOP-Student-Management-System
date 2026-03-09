@@ -88,3 +88,16 @@ Menu:
 7. Sort students by ID (insertion sort)
 8. Export sorted list to CSV
 Enter your choice:
+```
+
+---
+
+## Author
+
+**Styverson Ng**
+
+Bachelor of Information Technology <br>
+Artificial Intelligence & Autonomous Systems <br>
+Cyber Security & Cyber Forensics <br>
+
+Murdoch University <br>
