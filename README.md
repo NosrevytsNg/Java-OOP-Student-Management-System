@@ -92,7 +92,7 @@ Enter your choice:
 
 ---
 
-## Author
+## 🖋️ Author
 
 **Styverson Ng**
 
